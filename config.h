@@ -2,8 +2,8 @@
 #define CONFIG_H
 
 // WiFi credentials
-const char* ssid = "Shtinky";
-const char* password = "F1b0nacc1";
+const char* ssid = "SSID_HERE";
+const char* password = "PASSWORDHERE";
 
 // Server details
 const char* serverAddress = "capitalist-clock-web-server.onrender.com";
